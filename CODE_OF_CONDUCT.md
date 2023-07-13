@@ -13,13 +13,13 @@ We, as members of the community and development team, are dedicated to fostering
 - religion or lack thereof,
 - any other factor that could be used as a basis for discrimination.
 
-## Our Commitment
+## Engagement
 While we aim to maintain an environment with minimal restrictions, we would like to outline some examples of acceptable and unacceptable behavior below. Our intention is to encourage all community members to embody the qualities of a decent human being, ensuring that we can collaborate effectively and foster a positive atmosphere.
 
 **Examples of behavior that contributes to a positive environment include:**
 - 💬 **Effective communication**: engaging in open and empathetic communication, showing kindness and understanding towards others.
 - 🌟 **Respect**: treating each other with respect, embracing diverse opinions and experiences to create a harmonious atmosphere.
-- 🤝 **Collaboration**: working together to improve ourselves and the project, providing and accepting constructive feedback graciously, leading to a sense of accomplishment and belonging.
+- 🤝 **Collaboration**: working together to improve ourselves and the project, providing and accepting constructive feedback, leading to a sense of accomplishment and belonging.
 - ⚖️ **Taking responsibility**: acknowledging our mistakes, learning from experiences and offering apologies when necessary.
 - 📚 **Knowledge sharing**: sharing knowledge, resources and insights to promote mutual learning and growth.
 - 💡 **Innovation**: encouraging creativity, new ideas and innovative approaches to problem-solving.
@@ -33,7 +33,7 @@ While we aim to maintain an environment with minimal restrictions, we would like
 
 ## Enforcement
 
-Community moderators and team members are volunteers and while we strive to address reports promptly, immediate responses may not always be possible.  
+We, as community moderators and team members, are volunteers and while we strive to address reports promptly, immediate responses may not always be possible.  
 
 If you witness or experience any form of abusive, harassing or otherwise unacceptable behavior, we encourage you to report it to the community staff.
 All complaints will be reviewed and investigated thoroughly and appropriate actions will be taken at the discretion of the staff.
