@@ -30,7 +30,7 @@ In order to successfully [open a new issue](https://docs.github.com/en/issues/tr
 **Pull requests** are submitted when you want to collaborate and propose your finished work to a project, with the aim of having it included.  
 Even though we always appreciate new and helpful ideas, it is preferable to open a pull request to address an existing issue; if you propose unsolicited changes, keep in mind that there is a chance your pull request could be ignored.
 
-When [opening a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), you should:
+In order to successfully [open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), you should:
 - check if a similar **request** already exists; if so, review it to identify any potential problems that have arisen;
 - include a description in the pull request that possibly explains what you are doing and why. Help us decipher your genius;
 - make sure you are linking the pull request to the **issue** you are trying to solve;
