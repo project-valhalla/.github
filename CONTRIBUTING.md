@@ -11,6 +11,7 @@ Be aware that prompt responses (especially to issues, pull requests and discussi
 There are multiple ways to contribute to the project:
 - 🚩 opening [issues](#issues);
 - 🛠️ submitting [pull requests](#pull-requests);
+- 🎨 proposing and contributing art assets;
 - 🗣️ providing feedback and initiating [discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions);
 - ✏️ improving [documentation](https://github.com/project-valhalla/documentation);
 - 🌱 growing and supporting the community, spreading the word;
