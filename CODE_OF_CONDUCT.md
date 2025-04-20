@@ -1,5 +1,5 @@
 # Code of Conduct
-We, as members of the community and development team, are dedicated to fostering a harassment-free and inclusive environment for everyone participating in our project's community.
+We, as members of the community and development team, are dedicated to promoting a harassment-free and inclusive environment for everyone participating in our project's community.
 
 
 *Everyone is welcome here. Unwelcome is any form of hate ideology.* Therefore, we are committed to providing a friendly, safe and welcoming space for all, regardless of:
@@ -16,16 +16,16 @@ We, as members of the community and development team, are dedicated to fostering
 ## Engagement
 While we aim to maintain an environment with minimal restrictions, we would like to outline some examples of acceptable and unacceptable behavior below. Our intention is to encourage all community members to embody the qualities of a decent human being, ensuring that we can collaborate effectively and foster a positive atmosphere.
 
-**Examples of behavior that contributes to a positive environment include:**
+### Examples of positive behavior include:
 - 💬 **Effective communication**: engaging in open and empathetic communication, showing kindness and understanding towards others.
-- 🌟 **Respect**: treating each other with respect, embracing diverse opinions and experiences to create a harmonious atmosphere.
-- 🤝 **Collaboration**: working together to improve ourselves and the project, providing and accepting constructive feedback, leading to a sense of accomplishment and belonging.
+- 🌟 **Respect**: treating each other with respect, embracing diverse opinions and experiences.
+- 🤝 **Collaboration**: working together to improve ourselves and the project, providing and accepting constructive feedback.
 - ⚖️ **Taking responsibility**: acknowledging our mistakes, learning from experiences and offering apologies when necessary.
-- 📚 **Knowledge sharing**: sharing knowledge, resources and insights to promote mutual learning and growth.
+- 📚 **Knowledge sharing**: sharing knowledge, resources and insights.
 - 💡 **Innovation**: encouraging creativity, new ideas and innovative approaches to problem-solving.
 - ✊ **Collectivism**: focusing on what benefits not only us as individuals but also the community as a whole.
 
-**Examples of behavior that contributes to a negative environment include:**
+### Examples of unacceptable behavior:
 - 🧌 **Harassment**: engaging in sexually explicit language or imagery, making unwanted sexual advances, trolling, making derogatory comments or launching personal attacks.
 - 📮 **Spamming**: engaging in repetitive or irrelevant messages or advertisements.
 - 🧨 **Disruptive behavior**: intentionally disrupting discussions and inciting arguments.
